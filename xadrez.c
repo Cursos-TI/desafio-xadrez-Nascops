@@ -64,5 +64,6 @@ int main() {
     cavalo(CAVALO_LINHAS, CAVALO_COLUNAS);
     printf("\n");
 
+    printf("Novo comit\n")
     return 0;
 }
